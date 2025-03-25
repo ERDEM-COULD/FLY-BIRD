@@ -21,7 +21,7 @@ const birdSize = 20;
 
 // Klavye kontrolü
 document.addEventListener("keydown", () => {
-  birdSpeed = -7;
+  birdSpeed = -2;
 });
 
 // Oyun döngüsü
